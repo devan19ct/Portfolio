@@ -14,6 +14,7 @@ export default function Sidebar({ activeView, setView }) {
       <div className="px-6 mb-8">
         <div className="text-[10px] font-mono text-on-surface-variant uppercase tracking-tighter opacity-50">System_Admin</div>
         <div className="text-[10px] font-mono text-primary uppercase tracking-tighter animate-pulse-slow">v2.0.8-stable</div>
+        <div className="text-[10px] font-mono text-primary uppercase tracking-tighter animate-pulse-slow">vibecode_test</div>
       </div>
 
       <nav className="flex-grow">

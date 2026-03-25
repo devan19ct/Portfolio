@@ -70,12 +70,12 @@ export default function AboutSection() {
 
             <div className="w-full h-full border border-outline-variant relative overflow-hidden grayscale group-hover/profile:grayscale-0 transition-all duration-700">
               <img
-                src="/profile_1.jpg"
+                src={`${import.meta.env.BASE_URL}profile_1.jpg`}
                 alt="Devan Profile Default"
                 className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700 group-hover/profile:opacity-0 z-0"
               />
               <img
-                src="/profile_2.jpg"
+                src={`${import.meta.env.BASE_URL}profile_2.jpg`}
                 alt="Devan Profile Hover"
                 className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700 opacity-0 group-hover/profile:opacity-100 z-[1]"
               />
