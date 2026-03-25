@@ -17,7 +17,7 @@ export default function AboutSection() {
 
         <div className="lg:w-1/2 space-y-8 relative z-10">
           <div className="font-mono text-[10px] text-tertiary tracking-[0.3em] uppercase">—— CORE_PROTOCOL ——</div>
-          <h2 className="text-6xl font-display font-bold text-on-surface leading-tight">THE <br /> MISSION_LOG</h2>
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-on-surface leading-tight">THE <br /> MISSION_LOG</h2>
 
           <div className="space-y-6 text-on-surface-variant font-mono text-xs leading-relaxed uppercase tracking-tighter">
             <p>

@@ -29,7 +29,7 @@ export default function ProjectsSection() {
   return (
     <section id="work" className="p-6 md:p-12 min-h-screen bg-surface">
       <div className="mb-16">
-        <h2 className="text-6xl md:text-8xl font-display font-bold text-on-surface mb-4">PROJECT_FILES</h2>
+        <h2 className="text-4xl md:text-6xl lg:text-7xl font-display font-bold text-on-surface mb-4">PROJECT_FILES</h2>
         <div className="font-mono text-xs text-on-surface-variant tracking-widest uppercase">QUERYING LOCAL DRIVE... [{projects.length}] ENTRIES FOUND</div>
       </div>
 

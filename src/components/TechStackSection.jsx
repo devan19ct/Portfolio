@@ -17,7 +17,7 @@ export default function TechStackSection() {
         
         {/* Main Tech Stack Grid */}
         <div className="xl:w-2/3">
-          <h2 className="text-6xl md:text-8xl font-display font-bold text-on-surface mb-2">TECH_STACK.sys</h2>
+          <h2 className="text-4xl md:text-6xl lg:text-7xl font-display font-bold text-on-surface mb-2">TECH_STACK.sys</h2>
           <p className="font-mono text-xs text-on-surface-variant mb-12 max-w-lg">
             Executing kernel scan... Initializing modular skill interface. ALL systems nominal.
             Visualizing architectural proficiency across distributed development environments.
