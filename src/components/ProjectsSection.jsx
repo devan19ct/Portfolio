@@ -12,7 +12,7 @@ export default function ProjectsSection() {
     },
     {
       title: 'Thrigon Interactives',
-      area: 'Studio Websit',
+      area: 'Studio Website',
       description: 'A website for my game development studio. You can check our other games there.',
       tech: ['React', 'Tailwind CSS', 'Framer Motion'],
       link: 'https://thrigon.studio/'
